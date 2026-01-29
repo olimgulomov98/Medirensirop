@@ -7,11 +7,11 @@ import { NextSeo } from "next-seo";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "«МЕДИРЕН",
-  description: "Mediren - «МЕДИРЕН",
-  url: "https://invirep.vercel.app",
-  image: "https://invirep.vercel.app/INVIREP-logo.png",
-  content: "«МЕДИРЕН",
+  title: "МЕДИРЕН",
+  description: "Mediren - МЕДИРЕН",
+  url: "https://medirensirop.netlify.app",
+  image: "https://medirensirop.netlify.app/mediren-logo.svg",
+  content: "МЕДИРЕН",
 };
 
 export default function RootLayout({ children }) {
@@ -22,31 +22,31 @@ export default function RootLayout({ children }) {
           name="google-site-verification"
           content="EeNrX_Vhd4bMEJnslGv6D89shImpFKT1eTXHeeqUF8I"
         />
-        <link rel="canonical" href="https://www.invirep.uz/" />
-        <meta property="og:url" content="https://invirep.uz/" />
-        <meta property="og:title" content="«МЕДИРЕН" />
-        <meta property="og:description" content="«МЕДИРЕН" />
+        <link rel="canonical" href="https://www.medirensirop.uz/" />
+        <meta property="og:url" content="https://medirensirop.uz/" />
+        <meta property="og:title" content="МЕДИРЕН" />
+        <meta property="og:description" content="МЕДИРЕН" />
         <meta
           property="og:image"
-          content="https://invirep.vercel.app/INVIREP-logo.png"
+          content="https://medirensirop.netlify.app/mediren-logo.svg"
         />
         <meta property="og:image:width" content="800" />
         <meta property="og:image:height" content="600" />
         <meta
           property="og:image"
-          content="https://invirep.vercel.app/Invirep.png"
+          content="https://medirensirop.netlify.app/mediren.png"
         />
         <meta property="og:image:width" content="900" />
         <meta property="og:image:height" content="800" />
         <meta
           property="og:image"
-          content="https://invirep.vercel.app/Invirep.png"
+          content="https://medirensirop.netlify.app/mediren.png"
         />
         <meta
           property="og:image"
-          content="https://invirep.vercel.app/Invirep.png"
+          content="https://medirensirop.netlify.app/mediren.png"
         />
-        <meta property="og:site_name" content="«МЕДИРЕН" />
+        <meta property="og:site_name" content="МЕДИРЕН" />
         {/* Telegram */}
         <meta property="telegram:channel" content="@SpringPharmaceutic" />
         {/*Instagram*/}
