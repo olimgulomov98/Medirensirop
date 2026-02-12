@@ -1,4 +1,4 @@
-import { NextSeo } from "next-seo";
+
 
 export default function Home() {
   return (
@@ -36,24 +36,24 @@ export default function Home() {
               height={600}
               width={600}
               className="hidden md:block"
-              src="/mediren.png"
-              alt="инвиреп"
+              src="/mediren.webp"
+              alt="Медирен сироп 100мл - фитопрепарат для почек и мочевыводящих путей"
               loading={"lazy"}
             />
             {/* <img
               height={600}
               width={600}
               className="hidden md:block w-[500px] h-[500px]"
-              src="/mediren.png"
-              alt="инвиреп"
+              src="/mediren.webp"
+              alt="Медирен сироп"
               loading={"lazy"}
             /> */}
             <img
               height={300}
               width={300}
               className="block md:hidden"
-              src="/mediren.png"
-              alt="Invirep"
+              src="/mediren.webp"
+              alt="Медирен сироп 100мл - фитопрепарат для почек и мочевыводящих путей"
               loading={"lazy"}
             />
 
@@ -509,7 +509,7 @@ export default function Home() {
                 src="/Facebook-f_Logo-Blue-Logo.wine.svg"
                 loading={"lazy"}
                 className="w-[30px] h-[30px]"
-                alt="instagram"
+                alt="Facebook Spring Pharm"
               />
               Spring Pharm
             </a>
@@ -523,7 +523,7 @@ export default function Home() {
                 height={20}
                 loading={"lazy"}
                 className="w-[20px] h-[20px] ml-1"
-                alt="instagram"
+                alt="Telegram Spring Pharmaceutic"
               />
               Spring_Pharmaceutic
             </a>
@@ -532,7 +532,7 @@ export default function Home() {
                 src="/email-svgrepo-com.svg"
                 loading={"lazy"}
                 className="w-[25px] h-[25px]"
-                alt="instagram"
+                alt="Email Spring Pharmaceutic"
               />
               spring_pharmaceutic@gmail.com
             </a>
